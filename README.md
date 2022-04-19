@@ -21,6 +21,33 @@ Web Scraping news on [Chinatimes](https://www.chinatimes.com/?chdtv) using Scrap
 * Scrapy
 * Ckiptagger
 
+## Set up Ckiptagger
+1. Install ckiptagger
+2. Downloading model file (require 2GB disk space)
+* Follow https://github.com/ckiplab/ckiptagger
+* python>=3.6
+* tensorflow>=1.13.1,<2 / tensorflow-gpu>=1.13.1,<2 (one of them)
+
+## Set up Scrapy
+### Install
+```
+$ conda install -c conda-forge scrapy
+```
+### Set up environment
+```
+# create project file
+$ cd Deskop/
+$ mkdir scrapy
+
+# create basic scrapy object
+$ cd scrapy/
+$ startproject tutorial
+```
+### Run Scrapy
+```
+$ scrapy crawl spider
+```
 ## Quick glance at the results
+
 
  
