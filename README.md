@@ -48,6 +48,12 @@ $ startproject tutorial
 $ scrapy crawl spider
 ```
 ## Quick glance at the results
+First week top ten category.
 
+![Week1](https://github.com/IsaacLee0904/Chinatimes-Ukraine-Russia-NLP/blob/main/assets/week1.png)
+
+Fifth week top ten category.
+
+![Week5](https://github.com/IsaacLee0904/Chinatimes-Ukraine-Russia-NLP/blob/main/assets/week5.png)
 
  
