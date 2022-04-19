@@ -48,11 +48,35 @@ $ startproject tutorial
 $ scrapy crawl spider
 ```
 ## Quick glance at the results
-First week top ten category.
+**First week top ten category**
+| Category        | Counts           | Percent  |
+| ------------- |:-------------:| -----:|
+| 政治           | 288       | 24.59% |
+| 國際           | 258       | 22.03% |
+| 財經           | 132       | 11.27% |
+| 生活           | 81        | 6.92%  |
+| 兩岸           | 60        | 5.12%  |
+| 娛樂           | 40        | 3.42%  |
+| 時論廣場        | 38        | 3.25% |
+| 國際大事        | 33        | 2.82% |
+| 軍事           | 27        | 2.31% |
+| 財經要聞        | 26        | 2.22% |
 
 ![Week1](https://github.com/IsaacLee0904/Chinatimes-Ukraine-Russia-NLP/blob/main/assets/week1.png)
 
-Fifth week top ten category.
+**Fifth week top ten category**
+| Category        | Counts           | Percent  |
+| ------------- |:-------------:| -----:|
+| 國際           | 104       | 28.57% |
+| 政治           | 93        | 25.55% |
+| 財經           | 33        | 9.07%  |
+| 軍事           | 23        | 6.32%  |
+| 兩岸           | 18        | 4.95%  |
+| 話題觀察        | 14        | 3.85% |
+| 時論廣場        | 13        | 3.57% |
+| 海納百川        | 11        | 3.02% |
+| 焦點新聞        | 8         | 2.20% |
+| 國際大事        | 9         | 1.65% |
 
 ![Week5](https://github.com/IsaacLee0904/Chinatimes-Ukraine-Russia-NLP/blob/main/assets/week5.png)
 
