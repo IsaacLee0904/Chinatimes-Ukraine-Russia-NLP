@@ -45,7 +45,11 @@ $ startproject tutorial
 ```
 ### Run Scrapy
 ```
-$ scrapy crawl spider
+$ scrapy crawl spiderfile
+```
+### ETL(Turn json to csv with readdata.py)
+```
+$ python readdata.py filename.json
 ```
 ## Quick glance at the results
 **First week top ten category**
